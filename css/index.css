@@ -96,7 +96,7 @@ header a {
 
 }
 
-.homeBanner {
+.banner {
     width:100%;
     margin-bottom:2%;
 }
@@ -212,4 +212,55 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+/* About section */
+
+div.about {
+    margin-bottom:3%;
+    padding-bottom:3%;
+    border-bottom:1px dashed black;
+}
+
+div.learnSection {
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin:0 2% 0 2%;
+}
+
+.learnSection div {
+    width:47%;
+    margin:3% 0 3%;
+    padding-bottom:3%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-bottom: 1px dashed grey;
+}
+
+.learnSection h1 {
+    line-height: 2;
+}
+
+.container-about-page p {
+    font-size:12pt;
+}
+
+.learnSection a {
+    text-align:center;
+	width:40%;
+	margin-top: 5%;
+	padding:3%;
+	border:2px solid black;
+	background-color:white;
+	border-radius:5px;
+	color:black;
+	font-size: 12pt;
+}
+
+div.workTogether {
+    width:100%;
+    margin:2% 0 3%;
+    border:0;
 }
