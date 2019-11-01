@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Semantic HTML is HTML that describes its function in its naming convention. A section tag is a section, a header is the page header, and so on.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    Block displays elements like a block and takes up the whole width. Inline displays element inline and won't accept a height or width.
 
 3. What are the 4 areas of the box model?
 
+    Margin Border Padding Content
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+    It enables a group of people to work on the same project without stepping on each others feet or having to send tons of copies of the same document around. It creates a central platform for everyone to work on and compare work to as well as merge their work together for a final document.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
